@@ -34,5 +34,8 @@
 
 ![Снимок16](https://github.com/AlexanderSchelokov/Host-Protection-hw/assets/121572590/967c8bd5-1f92-4677-96ae-c83bef3138f6)
 
+![Снимок17](https://github.com/AlexanderSchelokov/Host-Protection-hw/assets/121572590/ecf2f427-8d0f-412e-a81d-1ccbe31d2112)
+
+
 ***
 
