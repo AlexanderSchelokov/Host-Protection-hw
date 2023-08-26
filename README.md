@@ -6,15 +6,15 @@
 
 Зашифруйте домашний каталог пользователя с помощью eCryptfs.
 
-![Снимок9](https://github.com/AlexanderSchelokov/Host-Protection-hw/assets/121572590/323abe9e-02c0-43e0-a80d-d6aa1cfb656f)
-
 В качестве ответа пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.
 
-![Снимок10](https://github.com/AlexanderSchelokov/Host-Protection-hw/assets/121572590/1b363ae2-c0bb-4abf-9659-dfc31e1aaa77)
+![Снимок19](https://github.com/AlexanderSchelokov/Host-Protection-hw/assets/121572590/54196621-e03c-437c-ad84-c3c64628d182)
 
-![Снимок11](https://github.com/AlexanderSchelokov/Host-Protection-hw/assets/121572590/54566813-155d-4604-941a-5a8e1abbc170)
 
-![Снимок12](https://github.com/AlexanderSchelokov/Host-Protection-hw/assets/121572590/ea03c139-fd43-4bc4-b20d-e487833a8249)
+
+
+
+
 
 ***
 
