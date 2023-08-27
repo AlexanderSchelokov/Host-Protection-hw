@@ -8,13 +8,9 @@
 
 В качестве ответа пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.
 
-![Снимок19](https://github.com/AlexanderSchelokov/Host-Protection-hw/assets/121572590/54196621-e03c-437c-ad84-c3c64628d182)
+![Снимок21](https://github.com/AlexanderSchelokov/Host-Protection-hw/assets/121572590/ddd735c2-bed8-49f9-9983-86a6a8619449)
 
-
-
-
-
-
+![Снимок22](https://github.com/AlexanderSchelokov/Host-Protection-hw/assets/121572590/e29cadf7-096b-42c8-8938-6c9eed70900f)
 
 ***
 
